@@ -1,0 +1,51 @@
+#colordef    black       =   157     157     157
+colordef    black       =   114     125     129
+#colordef    red         =   800     141     114
+colordef    red         =   984     286     204
+colordef    green       =   596     592     102
+colordef    yellow      =   843     600     129
+colordef    blue        =   271     522     533
+
+# purple
+colordef    magenta     =   694     384     525
+
+# aqua
+colordef    cyan        =   408     616     416
+colordef    white       =   922     859     698
+colordef    grey        =   659     600     518
+
+background              =   black       black
+frame                   =   green       black   dim
+window_title            =   cyan        black   bold
+directory               =   blue        black
+selected_directory      =   yellow      black   bold
+playlist                =   green       black
+selected_playlist       =   yellow      black   bold
+file                    =   white       black
+selected_file           =   yellow      black   bold   
+marked_file             =   cyan        black   bold
+marked_selected_file    =   yellow      black   bold
+marked_info             =   cyan        black   bold
+marked_selected_info    =   cyan        black   bold
+info                    =   red         black
+selected_info           =   red         black
+status                  =   red         black
+title                   =   cyan        black   bold
+state                   =   red         black   bold
+current_time            =   yellow      black
+time_left               =   red         black   
+total_time              =   yellow      black   dim
+time_total_frames       =   yellow      black
+sound_parameters        =   blue        black
+legend                  =   blue        black   dim
+disabled                =   magenta     black   dim
+enabled                 =   magenta     black   bold
+empty_mixer_bar         =   grey        black   bold
+filled_mixer_bar        =   grey        black   bold
+empty_time_bar          =   red         black
+filled_time_bar         =   red         black   reverse
+entry                   =   white       black
+entry_title             =   grey        black
+error                   =   red         black   bold,standout
+message                 =   grey        black   dim
+plist_time              =   yellow      black   dim

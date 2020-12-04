@@ -1,0 +1,7 @@
+set autocalc
+export TERM=xterm-256color
+set overlap
+set xlsx_readformulas
+set newline_action=j
+set ignorecase
+color "type=HEADINGS fg=DEFAULT_COLOR bg=DEFAULT_COLOR"

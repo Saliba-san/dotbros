@@ -1,0 +1,1 @@
+/usr/bin/jackd -r -dalsa -r96000 -p1024 -n2 -D -Chw:PCH -Phw:PCH
